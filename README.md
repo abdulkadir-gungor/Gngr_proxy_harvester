@@ -1,7 +1,7 @@
 # Gngr_proxy_harvester
 It checks the free proxy addresses it collects from websites and saves the working proxy addresses to the file.
 
-"Gngr proxy harvester" - ücretsiz proxy toplayan ve kontrol eden bir uygulama örneğidir. "pyinstaller" ile derlenerek "exe" haline getirildikten sonra Python Scriptlerinde kullanmak üzere çalışan ücretsiz proxy adresleri elde edilebilir. https://www.youtube.com/watch?v=GAmMjMAJA8E adresinde örnek bir kullanım şeklinin videosu bulunmaktadır.
+"Gngr proxy harvester" - ücretsiz proxy toplayan ve kontrol eden bir uygulama örneğidir. "pyinstaller" ile derlenerek "exe" haline getirildikten sonra Python Scriptlerinde kullanmak üzere çalışan ücretsiz proxy adresleri elde edilebilir. https://www.youtube.com/watch?v=GAmMjMAJA8E adresinde örnek bir kullanım şekli videosu bulunmaktadır.
 
 Kaynak kodun derlenmiş ('exe' uzantılı) dosya hali https://drive.google.com/file/d/14OBfxPVWVgYPob1qMB1Ba5O9aoejjGYJ/view?usp=sharing adresine konulmuştur.  Rar şifresi "Gngr-v1.0".
 
