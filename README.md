@@ -5,7 +5,7 @@ It checks the free proxy addresses it collects from websites and saves the worki
 
 Kaynak kodun derlenmiş ('exe' uzantılı) dosya hali https://drive.google.com/file/d/14OBfxPVWVgYPob1qMB1Ba5O9aoejjGYJ/view?usp=sharing adresine konulmuştur.  Rar şifresi "Gngr-v1.0".
 
-Program çalışması durumunda iki adet dosya üretir. "untrusted_proxy_list.txt" adlı dosya, web sitelerinden toplanan henüz kontrol edilmemiş proxy adreslerini içerir. "trusted_proxy_list.txt" adlı dosya da elde edilen proxy adreslerinin hem "http" hemde "https" protokollerinde çalıştığı tespit edilmiş proxy adreslerini içerir. Kullanacağınız proxy adresleri "trusted_proxy_list.txt" adlı dosyadadır. "examples" adlı klasörünün içinde bulunan iki adet python script-i kullanıma örnek olması açısından verilmiştir.
+Program çalışması durumunda iki adet dosya üretir. "untrusted_proxy_list.txt" adlı dosya, web sitelerinden toplanan henüz kontrol edilmemiş proxy adreslerini içerir. "trusted_proxy_list.txt" adlı dosya bulunan proxy adresleri hem "http" hemde "https" protokollerinde çalıştığı tespit edilmiş olan proxy adresleridir. Kullanacağınız proxy adresleri "trusted_proxy_list.txt" adlı dosyadadır. "examples" adlı klasörün içinde bulunan iki adet python script-i proxy kullanımına örnek olması açısından verilmiştir.
 
 
 
