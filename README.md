@@ -78,7 +78,7 @@ Aşağıda PyCharm programı üzerinde nasıl derlendiği resim olarak gösteril
 
 Önemli Not
 ----------------------
-Program proxy adreslerini ücretsiz sitelerden toplamaktadır. Bu yüzden toplanan proxy adresleri birden fazla proxy çeşidine ait olabilir. Bu konuda sorumluluk programı kullanan kişilerdedir.
+Program proxy adreslerini ücretsiz sitelerden toplamaktadır. Bu yüzden toplanan proxy adresleri birden fazla proxy çeşidine ait olabilir.
 
 
 Yasal Uyarı
