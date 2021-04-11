@@ -62,7 +62,7 @@ Aşağıda PyCharm programı üzerinde nasıl derlendiği resim olarak gösteril
 
 "examples" Adlı Klasör
 ----------------------
-"examples" adlı klasörde "Gngr_proxy_harvester" adlı program ile  python scriptlerinin nasıl entegre kullanabileceği gösterilmektedir. Aşağıda beraber kullanıma ait resimler gösterilmektedir.  
+"examples" adlı klasörde "Gngr_proxy_harvester" programı ile  python scriptlerinin nasıl entegre kullanabileceği gösterilmektedir. Aşağıda beraber kullanıma ait resimler gösterilmektedir.  
 
 
 [1]
@@ -75,6 +75,10 @@ Aşağıda PyCharm programı üzerinde nasıl derlendiği resim olarak gösteril
 
 ![n2](https://user-images.githubusercontent.com/71177413/114309830-49bf4600-9af1-11eb-9dde-941cab27daf5.jpg)
 
+
+Önemli Not
+----------------------
+Program proxy adreslerini ücretsiz sitelerden toplamaktadır. Bu yüzden toplanan proxy adresleri birden fazla proxy çeşidine ait olabilir. Bu konuda sorumluluk programı kullanan kişilerdedir.
 
 
 Yasal Uyarı
