@@ -1,6 +1,6 @@
 ############################################################################
 #
-#   how_use_proxy.py
+#   how_use_proxy2.py
 #   © 2021 ABDULKADİR GÜNGÖR All Rights Reserved
 #   Contact email address: abdulkadir_gungor@outlook.com
 #
